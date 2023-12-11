@@ -1,0 +1,60 @@
+.container{
+    height: 900px;
+    background-image: url(img/photo-1504639725590-34d0984388bd.jpeg);
+    background-size: cover;
+    mar
+}
+
+body {
+    
+    margin: 0;
+    text-align: center;
+    
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+}
+
+
+h1 {
+    color: white;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+    color:white;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.profile-img{
+    border-radius: 50%;
+    height: 150px;
+
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
